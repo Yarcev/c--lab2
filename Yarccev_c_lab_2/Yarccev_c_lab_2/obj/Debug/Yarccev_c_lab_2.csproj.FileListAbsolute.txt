@@ -1,0 +1,7 @@
+C:\Users\dimay\Desktop\с#_2\Yarccev_c_lab_2\Yarccev_c_lab_2\bin\Debug\Yarccev_c_lab_2.exe.config
+C:\Users\dimay\Desktop\с#_2\Yarccev_c_lab_2\Yarccev_c_lab_2\bin\Debug\Yarccev_c_lab_2.exe
+C:\Users\dimay\Desktop\с#_2\Yarccev_c_lab_2\Yarccev_c_lab_2\bin\Debug\Yarccev_c_lab_2.pdb
+C:\Users\dimay\Desktop\с#_2\Yarccev_c_lab_2\Yarccev_c_lab_2\obj\Debug\Yarccev_c_lab_2.exe
+C:\Users\dimay\Desktop\с#_2\Yarccev_c_lab_2\Yarccev_c_lab_2\obj\Debug\Yarccev_c_lab_2.pdb
+C:\Users\dimay\Desktop\с#_2\Yarccev_c_lab_2\Yarccev_c_lab_2\obj\Debug\Yarccev_c_lab_2.csprojAssemblyReference.cache
+C:\Users\dimay\Desktop\с#_2\Yarccev_c_lab_2\Yarccev_c_lab_2\obj\Debug\Yarccev_c_lab_2.csproj.CoreCompileInputs.cache
